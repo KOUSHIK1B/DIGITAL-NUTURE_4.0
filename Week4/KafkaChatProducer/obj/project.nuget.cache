@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Tns9GlCYgw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raoto\\OneDrive\\Desktop\\KafkaChatProducer\\KafkaChatProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raoto\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
+    "C:\\Users\\raoto\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
